@@ -6,8 +6,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](../images/screen.png)
-
+![](./design/scrren.PNG)
 
 ## Author
 
