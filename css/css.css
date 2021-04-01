@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--dark-cian);
+    background-image: url(../images/bg-pattern-top.svg), 
+    /* imagem do css onde fica uma parte do lado esquerdo. */
+    url(../images/bg-pattern-bottom.svg);
+    /* imagem do css onde fica o lado direito  */
+    background-repeat: no-repeat;
+    background-position: -110% 150%, 175% -100%;
+}
